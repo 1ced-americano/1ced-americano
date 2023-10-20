@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatma :D</h1>
+<h1 align="center">Hi 👋, I'm Fatma </h1>
 <h3 align="center"> - I have a solid foundation in front-end development. <br> - knowledge in different operating systems, such as: Kali Linux, macOS, windows, RedHat, Fedora. <br> - risk identification/analysis <br> - penetration testing <br> - ethical hacking.</h3>
 
 - 🔭 Currently building a weather application **How'sTheWeather**
